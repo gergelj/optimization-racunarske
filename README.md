@@ -2,6 +2,6 @@
 
 ## Jednodimenzionalna optimizacija
 
-$$
+```math
 x = 5
-$$
+```
