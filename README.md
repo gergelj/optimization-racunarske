@@ -2,6 +2,12 @@
 
 ## Jednodimenzionalna optimizacija
 
-```math
-x = 5
-```
+### Newton's method
+
+### Secant method
+
+### General direct seatch method
+
+### Fibonacci search
+
+### Golden-section search
