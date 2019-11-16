@@ -1,7 +1,13 @@
-function [x] = extremaNewton(df, ddf, x0, errMax, itMax)
+function [x, it] = extremaNewton(df, ddf, x0, errMax, itMax)
 
 for it=1:itMax
-    if(abs())
+    
+    x = x0 - df(x0)/ddf(x0);
+     if(abs(x-x0)<errMax)
+         return
+     end
+     
+     x0 = x;
 end
 
 end
