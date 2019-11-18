@@ -6,7 +6,7 @@
 
 ### Secant method
 
-### General direct seatch method
+### General direct search method
 
 ### Fibonacci search
 
