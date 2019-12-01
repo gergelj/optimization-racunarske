@@ -1,13 +1,31 @@
 # Računarske vežbe iz Metode optimizacije
 
-## Jednodimenzionalna optimizacija
+## One-Dimensional Optimization
 
-### Newton's method
+### Gradient Methods
 
-### Secant method
+#### Newton's Method
 
-### General direct search method
+#### Secant Method
 
-### Fibonacci search
+### Direct Search Methods
 
-### Golden-section search
+#### Fibonacci Search
+
+#### Golden-Section Search
+
+## Multidimensional Optimization
+
+### Gradient Methods
+
+#### Steepest Descent (SD)
+
+#### Newton's Method
+
+### Pattern Search
+
+#### Hooke-Jevees Method
+
+#### Powell's Method
+
+#### Nelder-Mead Method
